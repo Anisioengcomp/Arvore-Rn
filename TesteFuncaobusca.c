@@ -49,4 +49,4 @@ void testarBusca(int idCliente, NoRn *raiz) {
         printf("Cliente com ID %d NAO esta na fila de atendimento.\n", idCliente);
     }
 }// agora a gente reza pra nao ter dado algum erro
-//a partir daqui é sucesso
+//a partir daqui é sucessofefe
